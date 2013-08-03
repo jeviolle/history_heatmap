@@ -35,4 +35,4 @@ This output generated will be an `Rplots.pdf` which a heatchart
 
 ## Sample output
 
-![sample](https://github.com/jeviolle/history_heatmap/tree/master/sample/sample.png)
+![sample](https://raw.github.com/jeviolle/history_heatmap/master/sample/sample.png)
